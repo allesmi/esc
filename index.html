@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>#ESC2016 Selection</title>
+
+	<style type="text/css">
+		html, body {
+			padding: 0;
+			margin: 0;
+			width: 100%;
+			font-family: sans-serif;
+			text-align: center;
+		}
+
+		#country_flag {
+			box-shadow: 0 0 20px #666;
+		}
+	</style>
+</head>
+<body>
+	<h1><blink>The Fabulous Eurovision Song Contest 2016 Pseudorandom Country Selector 3000 Super Alpha</blink></h1>
+	<div style="height: 500px">
+		<h2 id="country_label"></h2>
+		<img id="country_flag" src="img/random.png" style="display: none">
+	</div>
+	<button id="btn_rand">Pick a random country!</button>
+
+	<script type="text/javascript">
+		var countries = ['Armenia', 'Austria', 'Azerbaijan', 'Croatia', 'Cyprus', 'Czech Republic', 'France', 'Germany', 'Hungary', 'Italy', 'Malta', 'Russia', 'Spain', 'Sweden', 'The Netherlands', 'United Kingdom'];
+		var n_countries = countries.length;
+
+		var randInt = function(max) {
+			return Math.floor(Math.random() * max);
+		}
+
+		var btn = document.getElementById('btn_rand');
+		var h2 = document.getElementById('country_label');
+		var img = document.getElementById('country_flag');
+
+		btn.addEventListener('click', function(){
+			var r = randInt(n_countries);
+			var countryName = countries[r];
+			var imagePath = 'img/' + countryName.toLowerCase().replace(' ', '_') + '.png';
+
+			h2.innerText = countryName;
+			img.src = imagePath;
+			img.style.display = "inline-block";
+
+			console.log("You got " + countries[r]);
+
+		});
+	</script>
+</body>
+</html>
