@@ -13,12 +13,13 @@
 		}
 
 		#country_flag {
+			max-height: 400px;
 			box-shadow: 0 0 20px #666;
 		}
 	</style>
 </head>
 <body>
-	<h1><blink>The Fabulous Eurovision Song Contest 2016 Pseudorandom Country Selector 3000 Super Alpha</blink></h1>
+	<h1><blink>The Fabulous<br/> Eurovision Song Contest 2016<br/> Pseudorandom Country Selector 3000 Super Alpha</blink></h1>
 	<div style="height: 500px">
 		<h2 id="country_label"></h2>
 		<img id="country_flag" src="img/random.png" style="display: none">
@@ -26,7 +27,7 @@
 	<button id="btn_rand">Pick a random country!</button>
 
 	<script type="text/javascript">
-		var countries = ['Armenia', 'Austria', 'Azerbaijan', 'Croatia', 'Cyprus', 'Czech Republic', 'France', 'Germany', 'Hungary', 'Italy', 'Malta', 'Russia', 'Spain', 'Sweden', 'The Netherlands', 'United Kingdom'];
+		var countries = ['Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'France', 'Georgia', 'Germany', 'Hungary', 'Israel', 'Italy', 'Latvia', 'Lithuania', 'Malta', 'Poland', 'Russia', 'Serbia', 'Spain', 'Sweden', 'The Netherlands', 'Ukraine', 'United Kingdom'];
 		var n_countries = countries.length;
 
 		var randInt = function(max) {
@@ -45,9 +46,6 @@
 			h2.innerText = countryName;
 			img.src = imagePath;
 			img.style.display = "inline-block";
-
-			console.log("You got " + countries[r]);
-
 		});
 	</script>
 </body>
