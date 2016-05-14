@@ -19,10 +19,10 @@
 	</style>
 </head>
 <body>
-	<h1><blink>The Fabulous<br/> Eurovision Song Contest 2016<br/> Pseudorandom Country Selector 3000 Super Alpha</blink></h1>
+	<h1><The Fabulous<br/> Eurovision Song Contest 2016<br/> Pseudorandom Country Selector 3000 Super Alpha</h1>
 	<div style="height: 500px">
-		<h2 id="country_label"></h2>
-		<img id="country_flag" src="img/random.png" style="display: none">
+		<h2 id="country_label">Pick a country</h2>
+		<img id="country_flag" src="img/random.png" style="display: none" alt="Country">
 	</div>
 	<button id="btn_rand">Pick a random country!</button>
 
@@ -45,6 +45,7 @@
 
 			h2.innerText = countryName;
 			img.src = imagePath;
+			img.alt = countryName;
 			img.style.display = "inline-block";
 		});
 	</script>
