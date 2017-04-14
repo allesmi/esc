@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>#ESC2016 Selection</title>
+	<title>#ESC2017 Selection</title>
 
 	<style type="text/css">
 		html, body {
@@ -11,43 +11,16 @@
 			font-family: sans-serif;
 			text-align: center;
 		}
-
-		#country_flag {
-			max-height: 400px;
-			box-shadow: 0 0 20px #666;
-		}
 	</style>
 </head>
 <body>
-	<h1><The Fabulous<br/> Eurovision Song Contest 2016<br/> Pseudorandom Country Selector 3000 Super Alpha</h1>
-	<div style="height: 500px">
-		<h2 id="country_label">Pick a country</h2>
-		<img id="country_flag" src="img/random.png" style="display: none" alt="Country">
-	</div>
-	<button id="btn_rand">Pick a random country!</button>
-
-	<script type="text/javascript">
-		var countries = ['Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'France', 'Georgia', 'Germany', 'Hungary', 'Israel', 'Italy', 'Latvia', 'Lithuania', 'Malta', 'Poland', 'Russia', 'Serbia', 'Spain', 'Sweden', 'The Netherlands', 'Ukraine', 'United Kingdom'];
-		var n_countries = countries.length;
-
-		var randInt = function(max) {
-			return Math.floor(Math.random() * max);
-		}
-
-		var btn = document.getElementById('btn_rand');
-		var h2 = document.getElementById('country_label');
-		var img = document.getElementById('country_flag');
-
-		btn.addEventListener('click', function(){
-			var r = randInt(n_countries);
-			var countryName = countries[r];
-			var imagePath = 'img/' + countryName.toLowerCase().replace(' ', '_') + '.png';
-
-			h2.innerText = countryName;
-			img.src = imagePath;
-			img.alt = countryName;
-			img.style.display = "inline-block";
-		});
-	</script>
+	<h1><The Fabulous<br/> Eurovision Song Contest 2017</h1>
+	
+	<p>
+	From <cite><a href="https://en.wikipedia.org/wiki/Eurovision_Song_Contest">wikipedia</a></cite>: 
+	<blockquote>
+		"The Eurovision Song Contest (French: Concours Eurovision de la chanson), sometimes popularly called Eurovision but not to be confused with the Eurovision network that broadcasts it, is the longest-running annual international TV song competition, held, primarily, among the member countries of the European Broadcasting Union (EBU) since 1956."
+	</blockquote>
+	<p>
 </body>
 </html>
