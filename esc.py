@@ -21,7 +21,7 @@ def get_rules(f):
 	return rules
 
 def get_countries():
-	return ['Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'France', 'Georgia', 'Germany', 'Hungary', 'Israel', 'Italy', 'Latvia', 'Lithuania', 'Malta', 'Poland', 'Russia', 'Serbia', 'Spain', 'Sweden', 'The Netherlands', 'Ukraine', 'United Kingdom'];
+	return ['Albania', 'Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Belarus', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Macedonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Israel', 'Italy', 'Latvia', 'Lithuania', 'Malta', 'Moldova', 'Montenegro', 'Norway', 'Poland', 'Portugal', 'Romania', 'San Marino', 'Serbia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'The Netherlands', 'Ukraine', 'United Kingdom']
 
 def export(pairs, file,  fmt='tsv'):	
 	fmt_string = export.fmt_strings.get(fmt, None)
