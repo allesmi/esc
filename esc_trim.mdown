@@ -1,3 +1,4 @@
+# All rules taken from Aleth (http://www.aleth.talktalk.net/eurosong.html)
 1. Presenters
 	- The Commentator makes a satirical comment that no-one laughs at
 	- The Host and Hostess try and fail to be funny
