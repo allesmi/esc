@@ -7,7 +7,7 @@ Goals in descending order of importance:
 
 The most comprehensive list of drinking games rules comes from Aleth:
 
-### [Aleth][http://www.aleth.talktalk.net/eurosong.html]
+### [Aleth](http://www.aleth.talktalk.net/eurosong.html)
 
 1. Presenters
 	- The Commentator makes a satirical comment that no-one laughs at
@@ -107,7 +107,7 @@ The most comprehensive list of drinking games rules comes from Aleth:
 
 ## Drinking games as others do it
 
-### [Buzzfeed][https://www.buzzfeed.com/tabathaleggett/the-ultimate-eurovision-song-contest-drinking-game?utm_term=.eeZJNJ7oL#.cixMWMoJm]
+### [Buzzfeed](https://www.buzzfeed.com/tabathaleggett/the-ultimate-eurovision-song-contest-drinking-game?utm_term=.eeZJNJ7oL#.cixMWMoJm)
 
 1. General
 	- Every time the presenters flirt, swap drinks with someone else in the room and take a big gulp of your new drink.
@@ -122,7 +122,7 @@ The most comprehensive list of drinking games rules comes from Aleth:
 	- If a country gives 12 points to its neighbour, drink 2 fingers.
 	- If a country finishes with nil points, drink until you have nil drink left.
 
-### [Student Drinking Games][http://www.studentdrinkinggames.com/tv-film/eurovision-song-contest.html]
+### [Student Drinking Games](http://www.studentdrinkinggames.com/tv-film/eurovision-song-contest.html)
 
 1. Hosts
 	- Speak in rhyme
@@ -155,7 +155,7 @@ The most comprehensive list of drinking games rules comes from Aleth:
 	- UK gets no points
 	- Your country wins – drain glass!
 
-### [TV Tropes][http://tvtropes.org/pmwiki/pmwiki.php/DrinkingGame/EurovisionSongContest]
+### [TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/DrinkingGame/EurovisionSongContest)
 
 1. Performances
 	- Drink whenever there is a key or tempo change
@@ -166,7 +166,7 @@ The most comprehensive list of drinking games rules comes from Aleth:
 	- When the scores start to come in, someone has to call out which country they think will get 12 points from the current one; if correct, everyone but the caller takes a shot.
 	- Drink for every nil points.
 
-### [The Telegraph][http://www.telegraph.co.uk/food-and-drink/features/the-ultimate-eurovision-drinking-game/]
+### [The Telegraph](http://www.telegraph.co.uk/food-and-drink/features/the-ultimate-eurovision-drinking-game/)
 
 1. General
 	- There's a wind machine
@@ -186,9 +186,9 @@ The most comprehensive list of drinking games rules comes from Aleth:
 	- A country gives the UK nil points
 	- There’s a technical hitch as the countries give their votes
 
-### [eurovisiondrinking.com][http://eurovisiondrinking.com/]
+### [eurovisiondrinking.com](http://eurovisiondrinking.com/)
 
-### [Marcus Nicholson on FB][https://www.facebook.com/notes/marcus-nicholson/the-eurovision-song-contest-drinking-game/10151665137509882/]
+### [Marcus Nicholson on FB](https://www.facebook.com/notes/marcus-nicholson/the-eurovision-song-contest-drinking-game/10151665137509882/)
 
-### [Webtender][http://www.webtender.com/handbook/games/eurovision-song-contest.game]
+### [Webtender](http://www.webtender.com/handbook/games/eurovision-song-contest.game)
 
